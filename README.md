@@ -1,2 +1,2 @@
 # rosario
-Il Santo Rosario
+Applicazione per recitare il Santo Rosario
