@@ -3,7 +3,7 @@
 
 function usage()
 {
-    echo    "Uso: $0 [(-h | --help)] [(-c <comando> | --comando-recita=<comando>)] [-g <giorno> | --giorno=<giorno>]"
+    echo    "Uso: $0 [(-h | --help)] [(-c <comando> | --comando-recita=<comando>)] [(-g <giorno> | --giorno=<giorno>)]"
     echo -e "\t-h | --help                    : mostra questo messaggio."
     echo -e "\t-c <comando>"
     echo -e "\t--comando-recita=<comando>     : usa <comando> per recitare il rosario."
